@@ -2,11 +2,15 @@
 
 This repository contains material for a one-semester course in intermediate macroeconomics.
 
+## Instructor
+
+The course material was developed by [Pascal Michaillat](https://www.pascalmichaillat.org/) for ECON 1210 at [Brown University](https://www.brown.edu).
+
 ## Course Webpage
 
 The course is hosted at https://www.pascalmichaillat.org/t2.html.
 
-## Overview
+## Course overview
 
 The course explores core topics in macroeconomics, including national statistics, consumption and saving, unemployment, inflation, business cycles, monetary and fiscal policy, economic growth, and population dynamics. The course starts by presenting short-run and long-run economic fluctuations in the United States and abroad. It then introduces models describing such fluctuations: 
 
@@ -16,12 +20,12 @@ The course explores core topics in macroeconomics, including national statistics
 + Malthusian model of preindustrial growth
 + Solowian model of modern growth
 
-## Material
+## Course material
 
-The material for the course is contained in four folders:
+The repository contains all the material for the course:
 
 + `lectures` folder: 30 slide decks for 30 one-hour lectures
-+ `references` folder: 3 journal articles describing the basic matching model and basic Malthusian model presented in the lectures
++ `references` folder: 3 journal articles describing the basic matching model and basic Malthusian model presented in lectures
 + `homework` folder: 
 	* 8 problem sets, with their solutions
 	* 100 multiple-choice questions, with their solutions
@@ -29,7 +33,7 @@ The material for the course is contained in four folders:
 	* 2 midterm exams, each with a practice version and solutions
 	* 1 final exam, with a practice version and solutions
 
-## Organization
+## Course organization
 
 The course is organized in 6 modules.
 
@@ -40,13 +44,9 @@ The course is organized in 6 modules.
 5. Malthusian model of growth: lectures 22–24; problem set 7
 6. Solowian model of growth: lectures 25–29; problem set 8
 
-## Useful resource
+## Useful resources
 
 No textbook is required for this course, but [Macroeconomics](https://www.pearson.com/us/higher-education/program/Blanchard-Macroeconomics-7th-Edition/PGM333935.html) by Olivier Blanchard nicely complements several parts of the course.
-
-## Author
-
-The course material was developed by [Pascal Michaillat](https://www.pascalmichaillat.org/) for ECON 1210 at [Brown University](https://www.brown.edu).
 
 ## License
 
