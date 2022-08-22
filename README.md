@@ -22,7 +22,7 @@ The course explores core topics in macroeconomics, including national statistics
 
 ## Course material
 
-The repository contains all the material for the course:
+The repository contains all the material for the course.
 
 + `lectures` folder: 30 slide decks for 30 one-hour lectures
 + `references` folder: 3 journal articles describing the basic matching model and basic Malthusian model presented in lectures
