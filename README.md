@@ -1,6 +1,6 @@
 # Intermediate Macroeconomics
 
-This repository contains material for a one-semester course in intermediate macroeconomics.
+This repository contains material for a semester-long course in intermediate macroeconomics.
 
 ## Instructor
 
