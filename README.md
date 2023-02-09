@@ -4,11 +4,11 @@ This repository contains material for a semester-long course in intermediate mac
 
 ## Instructor
 
-The course material was developed by [Pascal Michaillat](https://www.pascalmichaillat.org/) for ECON 1210 at [Brown University](https://www.brown.edu).
+The course material was developed by [Pascal Michaillat](https://pascalmichaillat.org/) for ECON 1210 at [Brown University](https://www.brown.edu).
 
 ## Course Webpage
 
-The course is hosted at https://www.pascalmichaillat.org/t2.html.
+The course is hosted at https://pascalmichaillat.org/c4/.
 
 ## Course overview
 
