@@ -1,10 +1,6 @@
 # Intermediate Macroeconomics
 
-This repository contains teaching material for a semester-long course in intermediate macroeconomics.
-
-## Instructor
-
-The material was developed by [Pascal Michaillat](https://pascalmichaillat.org/) for ECON 1210 at [Brown University](https://www.brown.edu).
+This repository contains teaching material for a semester-long course in intermediate macroeconomics. The material was developed by [Pascal Michaillat](https://pascalmichaillat.org/) for ECON 1210 at [Brown University](https://www.brown.edu).
 
 ## Course webpage
 
