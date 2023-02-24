@@ -21,7 +21,7 @@ The course explores core topics in macroeconomics, including national statistics
 
 The repository contains the Keynote and Pages source files to the course material. The repository also contains the PDF version of the same source files.
 
-The files are organized in four folders:
+The material is organized in four folders:
 
 + `lectureslides` folder – 30 slide decks for 30 one-hour lectures
 + `problemsets` folder – 5 problem sets
