@@ -19,7 +19,7 @@ The course explores core topics in macroeconomics, including national statistics
 
 ## Course material
 
-The repository contains the Keynote and Pages source files for all the course material. The repository also contains the PDF versions of the source files.
+The repository contains the Keynote and Pages source files to the course material. The repository also contains the PDF version of the same source files.
 
 The files are organized in four folders:
 
@@ -31,7 +31,7 @@ Solutions to the problems sets and quizzes are available to instructors [upon re
 
 ### Lecture slides
 
-The `lectureslides` folder contains the Keynote source files for the lecture slides:
+The `lectureslides` folder contains the Keynote source files to the lecture slides:
 
 + `slides0.key`, `slides0.pdf` – Overview of macroeconomics
 
@@ -84,7 +84,7 @@ The `lectureslides` folder contains the Keynote source files for the lecture sli
 
 ### Problem sets
 
-The `problemsets` folder contains the Pages source files for the problem sets:
+The `problemsets` folder contains the Pages source files to the problem sets:
 
 + `ps1.pages`, `ps1.pdf` – Problem set on macroeconomic concepts
 + `ps2.pages`, `ps2.pdf` – Problem set on IS-LM model of business cycles
@@ -94,7 +94,7 @@ The `problemsets` folder contains the Pages source files for the problem sets:
 
 ### Quizzes
 
-The `quizzes` folder contains the Pages source files for the quizzes:
+The `quizzes` folder contains the Pages source files to the quizzes:
 
 + `quiz1.pages`, `quiz1.pdf` – Quiz on macroeconomic concepts
 + `quiz2.pages`, `quiz2.pdf` – Quiz on IS-LM model of business cycles
