@@ -17,7 +17,7 @@ The course explores core topics in macroeconomics, including national statistics
 + Malthusian model of growth
 + Solowian model of growth
 
-## Course material
+## Teaching material
 
 The repository contains the Keynote and Pages source files to the course material. The repository also contains the PDF version of the same source files.
 
