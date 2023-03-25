@@ -1,6 +1,6 @@
-# Intermediate Macroeconomics
+# Intermediate Macroeconomics: Source Files
 
-This repository contains teaching material for a semester-long course in intermediate macroeconomics. The material was developed by [Pascal Michaillat](https://pascalmichaillat.org/) for ECON 1210 at [Brown University](https://www.brown.edu).
+This repository contains the source files producing all the teaching material for a semester-long course in intermediate macroeconomics. This teaching material was developed by [Pascal Michaillat](https://pascalmichaillat.org/) for ECON 1210 at [Brown University](https://www.brown.edu).
 
 ## Course webpage
 
@@ -17,17 +17,15 @@ The course explores core topics in macroeconomics, including national statistics
 + Malthusian model of growth
 + Solowian model of growth
 
-## Teaching material
+## Source files
 
-The repository contains the Keynote and Pages source files to the course material. The repository also contains the PDF version of the same source files.
-
-The material is organized in four folders:
+The source files are in Keynote or Pages format. They are organized in 3 folders:
 
 + `lectureslides` folder – 30 slide decks for 30 one-hour lectures
 + `problemsets` folder – 5 problem sets
 + `quizzes` folder – 6 quizzes, each composed of many multiple-choice questions
 
-Solutions to the problems sets and quizzes are available to instructors [upon request](https://github.com/pmichaillat/intermediate-macro/discussions).
+ The folders also contain the PDF versions of the source files.
 
 ### Lecture slides
 
@@ -62,7 +60,7 @@ The `lectureslides` folder contains the Keynote source files to the lecture slid
 + `slides17.key`, `slides17.pdf` – Wages
 + `slides18.key`, `slides18.pdf` – Equilibrium of the matching model
 + `slides19.key`, `slides19.pdf` – Labor-market policies
-+ `slides20.key`, `slides20.pdf` – Unempployment types
++ `slides20.key`, `slides20.pdf` – Unemployment types
 
 #### Models of inflation
 
@@ -92,6 +90,8 @@ The `problemsets` folder contains the Pages source files to the problem sets:
 + `ps4.pages`, `ps4.pdf` – Problem set on Malthusian model of growth
 + `ps5.pages`, `ps5.pdf` – Problem set on Solowian model of growth
 
+Solutions to the problems sets are available to instructors [upon request](https://github.com/pmichaillat/intermediate-macro/discussions).
+
 ### Quizzes
 
 The `quizzes` folder contains the Pages source files to the quizzes:
@@ -102,6 +102,8 @@ The `quizzes` folder contains the Pages source files to the quizzes:
 + `quiz4.pages`, `quiz4.pdf` – Quiz on Phillips curve
 + `quiz5.pages`, `quiz5.pdf` – Quiz on Malthusian model of growth
 + `quiz6.pages`, `quiz6.pdf` – Quiz on Solowian model of growth
+
+Solutions to the quizzes are available to instructors [upon request](https://github.com/pmichaillat/intermediate-macro/discussions).
 
 ## License
 
