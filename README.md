@@ -1,6 +1,6 @@
 # Intermediate Macroeconomics: Source Files
 
-This repository contains source files producing teaching material for a semester-long undergraduate course in intermediate macroeconomics. The teaching material was developed by [Pascal Michaillat](https://pascalmichaillat.org/) for ECON 1210 at [Brown University](https://www.brown.edu).
+This repository contains source files producing the teaching material for a semester-long undergraduate course in intermediate macroeconomics. The teaching material was developed by [Pascal Michaillat](https://pascalmichaillat.org/) for ECON 1210 at [Brown University](https://www.brown.edu).
 
 ## Course webpage
 
