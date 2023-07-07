@@ -90,7 +90,7 @@ The `problemsets` folder contains the Pages source files to the problem sets:
 + `ps4.pages`, `ps4.pdf` – Problem set on Malthusian model of growth
 + `ps5.pages`, `ps5.pdf` – Problem set on Solowian model of growth
 
-Solutions to the problems sets are available to instructors [upon request](https://github.com/pmichaillat/intermediate-macro/discussions).
+Solutions to the problems sets are available to instructors [upon request](mailto:pascal.michaillat@gmail.com).
 
 ### Quizzes
 
