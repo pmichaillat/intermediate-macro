@@ -103,7 +103,7 @@ The `quizzes` folder contains the Pages source files to the quizzes:
 + `quiz5.pages`, `quiz5.pdf` – Quiz on Malthusian model of growth
 + `quiz6.pages`, `quiz6.pdf` – Quiz on Solowian model of growth
 
-Solutions to the quizzes are available to instructors [upon request](https://github.com/pmichaillat/intermediate-macro/discussions).
+Solutions to the quizzes are available to instructors [upon request](mailto:pascal.michaillat@gmail.com).
 
 ## License
 
