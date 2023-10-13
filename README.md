@@ -1,6 +1,6 @@
 # Intermediate Macroeconomics: Source Files
 
-This repository contains source files producing the course material for "Intermediate Macroeconomics", a semester-long undergraduate course developed by [Pascal Michaillat](https://pascalmichaillat.org/) and taught at [Brown University](https://www.brown.edu).
+This repository contains the source files of the course "Intermediate Macroeconomics"  developed by [Pascal Michaillat](https://pascalmichaillat.org/) and taught at [Brown University](https://www.brown.edu).
 
 ## Course webpage
 
@@ -8,7 +8,7 @@ The course material is hosted at https://pascalmichaillat.org/c4/.
 
 ## Course overview
 
-The course explores core topics in macroeconomics, including national statistics, consumption and saving, unemployment, inflation, business cycles, monetary and fiscal policy, economic growth, and population dynamics. The course is organized in six modules:
+The course is designed for undergraduate and master students. It explores core topics in macroeconomics, including national statistics, consumption and saving, unemployment, inflation, business cycles, monetary and fiscal policy, economic growth, and population dynamics. The course is organized in six modules, which can be covered in a quarter or a semester:
 
 + Macroeconomic concepts
 + IS-LM model of business cycles
