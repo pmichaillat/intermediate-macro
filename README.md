@@ -6,17 +6,6 @@ This repository contains the source files of the course "Intermediate Macroecono
 
 The course material is hosted at https://pascalmichaillat.org/c4/.
 
-## Course overview
-
-The course is designed for undergraduate and master students. It explores core topics in macroeconomics, including national statistics, consumption and saving, unemployment, inflation, business cycles, monetary and fiscal policy, economic growth, and population dynamics. The course is organized in six modules, which can be covered in a quarter or a semester:
-
-+ Macroeconomic concepts
-+ IS-LM model of business cycles
-+ Matching model of unemployment
-+ Models of inflation
-+ Malthusian model of growth
-+ Solowian model of growth
-
 ## Source files
 
 The source files are in Keynote or Pages format. They are organized in 3 folders:
