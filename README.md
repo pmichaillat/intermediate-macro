@@ -6,23 +6,13 @@ This repository contains the source files of the course "Intermediate Macroecono
 
 The course material is hosted at https://pascalmichaillat.org/c4/.
 
-## Source files
+## Lecture slides
 
-The source files are in Keynote or Pages format. They are organized in 3 folders:
-
-+ `lectureslides` folder – 30 slide decks for 30 one-hour lectures
-+ `problemsets` folder – 5 problem sets
-+ `quizzes` folder – 6 quizzes, each composed of many multiple-choice questions
-
- The folders also contain the PDF versions of the source files.
-
-### Lecture slides
-
-The `lectureslides` folder contains the Keynote source files to the lecture slides:
+The `lectureslides` folder contains the source files to the lecture slides. The lecture slides are written with Keynote, and then exported to PDF. The lecture slides are organized in 30 slide decks for 30 one-hour lectures: 
 
 + `slides0.key`, `slides0.pdf` – Overview of macroeconomics
 
-#### Macroeconomic concepts
+### Macroeconomic concepts
 
 + `slides1.key`, `slides1.pdf` – The world
 + `slides2.key`, `slides2.pdf` – Defining GDP
@@ -31,7 +21,7 @@ The `lectureslides` folder contains the Keynote source files to the lecture slid
 + `slides5.key`, `slides5.pdf` – Inflation
 + `slides6.key`, `slides6.pdf` – Unempployment
 
-#### IS-LM model of business cycles
+### IS-LM model of business cycles
 
 + `slides7.key`, `slides7.pdf` – Expenditure function
 + `slides8.key`, `slides8.pdf` – IS submodel
@@ -41,7 +31,7 @@ The `lectureslides` folder contains the Keynote source files to the lecture slid
 + `slides12.key`, `slides12.pdf` – Recessions
 + `slides13.key`, `slides13.pdf` – Monetary and fiscal policy
 
-#### Matching model of unemployment
+### Matching model of unemployment
 
 + `slides14.key`, `slides14.pdf` – Matching function
 + `slides15.key`, `slides15.pdf` – Labor supply
@@ -51,17 +41,17 @@ The `lectureslides` folder contains the Keynote source files to the lecture slid
 + `slides19.key`, `slides19.pdf` – Labor-market policies
 + `slides20.key`, `slides20.pdf` – Unemployment types
 
-#### Models of inflation
+### Models of inflation
 
 + `slides21.key`, `slides21.pdf` – Phillips curve and quantity theory
 
-#### Malthusian model of growth
+### Malthusian model of growth
 
 + `slides22.key`, `slides22.pdf` – Overview of the Malthusian model
 + `slides23.key`, `slides23.pdf` – Population
 + `slides24.key`, `slides24.pdf` – Output per worker in the Malthusian model
 
-#### Solowian model of growth
+### Solowian model of growth
 
 + `slides25.key`, `slides25.pdf` – Production and saving
 + `slides26.key`, `slides26.pdf` – Output per worker in the Solowian model
@@ -69,9 +59,9 @@ The `lectureslides` folder contains the Keynote source files to the lecture slid
 + `slides28.key`, `slides28.pdf` – Technological progress
 + `slides29.key`, `slides29.pdf` – Balanced growth
 
-### Problem sets
+## Problem sets
 
-The `problemsets` folder contains the Pages source files to the problem sets:
+The `problemsets` folder contains the source files to the problem sets. The problem sets are written with Pages, and then exported to PDF. There are 5 problem sets, covering the main topics of the course:
 
 + `ps1.pages`, `ps1.pdf` – Problem set on macroeconomic concepts
 + `ps2.pages`, `ps2.pdf` – Problem set on IS-LM model of business cycles
@@ -81,9 +71,9 @@ The `problemsets` folder contains the Pages source files to the problem sets:
 
 Solutions to the problems sets are available to instructors [upon request](mailto:pascal.michaillat@gmail.com).
 
-### Quizzes
+## Quizzes
 
-The `quizzes` folder contains the Pages source files to the quizzes:
+The `quizzes` folder contains the source files to the quizzes. The quizzes are written with Pages, and then exported to PDF. There are 6 quizzes, each composed of many multiple-choice questions:
 
 + `quiz1.pages`, `quiz1.pdf` – Quiz on macroeconomic concepts
 + `quiz2.pages`, `quiz2.pdf` – Quiz on IS-LM model of business cycles
