@@ -88,7 +88,7 @@ The `quizzes` folder contains the Pages source files to the quizzes:
 + `quiz1.pages`, `quiz1.pdf` – Quiz on macroeconomic concepts
 + `quiz2.pages`, `quiz2.pdf` – Quiz on IS-LM model of business cycles
 + `quiz3.pages`, `quiz3.pdf` – Quiz on matching model of unemployment
-+ `quiz4.pages`, `quiz4.pdf` – Quiz on Phillips curve
++ `quiz4.pages`, `quiz4.pdf` – Quiz on models of inflation
 + `quiz5.pages`, `quiz5.pdf` – Quiz on Malthusian model of growth
 + `quiz6.pages`, `quiz6.pdf` – Quiz on Solowian model of growth
 
