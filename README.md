@@ -8,7 +8,7 @@ The course material is hosted at https://pascalmichaillat.org/c4/.
 
 ## Lecture slides
 
-The `lectureslides` folder contains the source files to the lecture slides. The lecture slides are written with Keynote, and then exported to PDF. The lecture slides are organized in 30 slide decks for 30 one-hour lectures: 
+The source files to the lecture slides are contained in the `lectureslides` folder. The lecture slides are written with Keynote, and then exported to PDF. The lecture slides are organized in 30 slide decks for 30 one-hour lectures: 
 
 + `slides0.key`, `slides0.pdf` – Overview of macroeconomics
 
@@ -61,7 +61,7 @@ The `lectureslides` folder contains the source files to the lecture slides. The 
 
 ## Problem sets
 
-The `problemsets` folder contains the source files to the problem sets. The problem sets are written with Pages, and then exported to PDF. There are 5 problem sets, covering the main topics of the course:
+The source files to the problem sets are contained in the `problemsets` folder. The problem sets are written with Pages, and then exported to PDF. There are 5 problem sets, covering the main topics of the course:
 
 + `ps1.pages`, `ps1.pdf` – Problem set on macroeconomic concepts
 + `ps2.pages`, `ps2.pdf` – Problem set on IS-LM model of business cycles
@@ -73,7 +73,7 @@ Solutions to the problems sets are available to instructors [upon request](mailt
 
 ## Quizzes
 
-The `quizzes` folder contains the source files to the quizzes. The quizzes are written with Pages, and then exported to PDF. There are 6 quizzes, each composed of many multiple-choice questions:
+The source files to the quizzes are contained in the `quizzes` folder. The quizzes are written with Pages, and then exported to PDF. There are 6 quizzes, each composed of many multiple-choice questions:
 
 + `quiz1.pages`, `quiz1.pdf` – Quiz on macroeconomic concepts
 + `quiz2.pages`, `quiz2.pdf` – Quiz on IS-LM model of business cycles
