@@ -4,7 +4,7 @@ This repository contains the source files of the course "Intermediate Macroecono
 
 ## Course webpage
 
-The course material is hosted at https://pascalmichaillat.org/c4/.
+The course material is hosted at https://pascalmichaillat.org/y/.
 
 ## Lecture slides
 
